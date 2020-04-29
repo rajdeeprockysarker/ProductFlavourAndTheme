@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Light Base application theme. -->
+    <style name="LightTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!-- Light Base application theme. -->
+    <style name="DarkTheme" parent="ThemeOverlay.MaterialComponents.Dark">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#B84941</item>
+        <item name="colorPrimaryDark">#C59B8E</item>
+        <item name="colorAccent">#A13311</item>
+    </style>
+
+</resources>
